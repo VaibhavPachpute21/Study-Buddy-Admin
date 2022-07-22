@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    color: white;
+    background-color: #082032;
+}
+
+.myJumbotron {
+    text-align: center;
+    height: 20vh;
+    padding: 10px;
+    background-color: #2C394B;
+}
+
+
+.myJumbotron h2 {
+    vertical-align: bottom;
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 700;
+    font-size: 42px !important;
+}
+
+.mainBody {
+    margin: 100px;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: #334756;
+}
+
+.mainBody h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    padding-bottom: 25px;
+}
+
+.mainBody .col {
+    padding: 10px;
+}
+
+.mainBody input {
+    border: #FF4C29 1px solid;
+    border-radius: 10px;
+    width: 90%;
+    align-items: center;
+    height: 100%;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.mainBody input:focus {
+    border: #FF4C29 2px solid;
+}
+
+.dropdown{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.dropdown select{
+    border: #FF4C29 1px solid;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px;
+}

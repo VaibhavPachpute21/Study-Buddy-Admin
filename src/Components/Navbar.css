@@ -1,0 +1,15 @@
+nav{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 200px;
+
+}
+
+nav li{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    background-color: darkcyan;
+}
